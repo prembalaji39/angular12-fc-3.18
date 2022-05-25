@@ -1,4 +1,4 @@
-# Angular12
+# Angular12 - FusionCharts 3.18
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.17.
 
